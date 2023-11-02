@@ -1,0 +1,15 @@
+{
+  "name": "npmconsumer",
+  "version": "1.0.3",
+  "description": "This is a test library to check npm consumption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "v-oozardic@microsoft.com",
+  "license": "ISC",
+  "dependencies": {
+    "com-microsoft-demo-colors": "^2.0.0"
+  }
+}
